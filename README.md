@@ -94,5 +94,6 @@ This training reinforced foundational concepts that prepare me for cloud-based r
 
 ---
 
-Let me know if you'd like a Markdown file version of this or additions like badges, links to Microsoft documentation, or integration with your GitHub repo!
+Created by Susana-dLG
+May 2025
 
