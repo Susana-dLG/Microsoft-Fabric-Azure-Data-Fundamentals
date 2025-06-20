@@ -68,7 +68,7 @@ The screenshots reflect direct interaction with Azure SQL, storage accounts, Cos
 * ![image](https://github.com/user-attachments/assets/1c5fea04-bfd6-442f-a45f-cd124e425425)
 
 
-
+[View in POwerBI](https://app.powerbi.com/groups/me/reports/cb582732-140c-406a-96c5-033d9c39a92a/f1d139c4b579d3a4ee38?experience=power-bi)
 
 
 ---
